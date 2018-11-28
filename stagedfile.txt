@@ -1,3 +1,0 @@
-" tester les fichier modifi‚ dans staged " 
-
-la mofification apres la commande add 
