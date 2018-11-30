@@ -9,4 +9,8 @@ hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 ajour pour tester annuler
 
 testbranching
+
 Add Conflict in master branch
+
+ADD conflict in branch
+
